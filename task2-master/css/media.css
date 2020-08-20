@@ -195,6 +195,10 @@
       line-height: 60px;
       margin-bottom: 30px;
    }
+   .header__title span {
+      font-size: 48px;
+      line-height: 60px;
+   }
    .convenient__list li {
       font-size: 19px;
    }
@@ -273,6 +277,9 @@
    .convenient__list li::before {
       top: 11px;
    }
+   .convenient__img img {
+      max-height: 440px;
+  }
    .convenient__img_show {
       margin-top: 50px;
   }
